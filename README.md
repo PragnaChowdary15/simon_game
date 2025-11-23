@@ -19,17 +19,20 @@ TECHNOLOGIES USED:
 -jQuery
 
 PROJECT STRUCTURE:
-simon_game
-├── index.html
-├── styles.css
-├── game.js
-└── sounds
-├── red.mp3
-├── blue.mp3
-├── green.mp3
-├── yellow.mp3
-└── wrong.mp3
-
+D:.
+|   .DS_Store
+|   game.js
+|   index.html
+|   structure.txt
+|   styles.css
+|   
+\---sounds
+        blue.mp3
+        green.mp3
+        red.mp3
+        wrong.mp3
+        yellow.mp3
+        
 FEATURES:
 -Sound effects & animations
 -Progressive difficulty
